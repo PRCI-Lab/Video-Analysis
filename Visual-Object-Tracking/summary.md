@@ -11,7 +11,7 @@
 * 717,900 annotations
 * 15 challenging attributes
 
-![](/figs/RGBD1K.png)
+![](figs/RGBD1K.png)
 
 #### [[Paper](https://arxiv.org/abs/2208.09787)] \[[Code](https://github.com/xuefeng-zhu5/RGBD1K)]
 
@@ -23,7 +23,7 @@
 *Tianyang Xu, Zhenhua Feng, Xiao-Jun Wu, Josef Kittler,* **IEEE TIP**, 2023. 
 
 
-![](https://github.com/PRCI-Lab/Video-Analysis/edit/main/Visual-Object-Tracking/figs/SiamTactic.png)
+![](figs/SiamTactic.png)
 
 #### \[[Paper](https://ieeexplore.ieee.org/document/10053655)]\[[Code]()]
 ---------
@@ -33,7 +33,7 @@
 *Shaochuan Zhao, Tianyang Xu, Xiao-Jun Wu, Josef Kittler,* **IEEE TCSVT**, 2022.
 
 
-![](https://github.com/PRCI-Lab/Video-Analysis/edit/main/Visual-Object-Tracking/figs/Distillation.png)
+![](figs/Distillation.png)
 
 #### [[Paper](https://ieeexplore.ieee.org/document/9781254)]\[[Code]()]
 ----
@@ -43,7 +43,7 @@
 *Tianyang Xu, Zhenhua Feng, Xiao-Jun Wu, Josef Kittler,* **IJCV**, 2021.
 
 
-![](https://github.com/PRCI-Lab/Video-Analysis/edit/main/Visual-Object-Tracking/figs/ACSDCF.png)
+![](figs/ACSDCF.png)
 
 #### [[Paper](https://link.springer.com/content/pdf/10.1007/s11263-021-01435-1.pdf)] \[[Code](https://github.com/XU-TIANYANG/ACSDCF)]
 ----
@@ -53,7 +53,7 @@
 *Shaochuan Zhao, Tianyang Xu, Xiao-Jun Wu, Xue-Feng Zhu,* **Pattern Recognition**, 2021. 
 
 
-![](https://github.com/PRCI-Lab/Video-Analysis/edit/main/Visual-Object-Tracking/figs/AFFVOT.png)
+![](figs/AFFVOT.png)
 
 #### [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320320304829)]\[[Code]()]
 ----
@@ -63,7 +63,7 @@
 *Xue-Feng Zhu, Xiao-Jun Wu, Tianyang Xu, Zhen-Hua Feng, Josef Kittler,* **IEEE TMM**, 2021.
 
 
-![](https://github.com/PRCI-Lab/Video-Analysis/edit/main/Visual-Object-Tracking/figs/A3DCF.png)
+![](figs/A3DCF.png)
 
 
 #### [[Paper](https://ieeexplore.ieee.org/document/9318537)] \[[Code](https://github.com/xuefeng-zhu5/A3DCF)]
@@ -75,7 +75,7 @@
 *Tianyang Xu, Zhen-Hua Feng, Xiao-Jun Wu, Josef Kittler,* **Pattern Recognition**, 2020.
 
 
-![](/figs/R_A-ADMM.png)
+![](figs/R_A-ADMM.png)
 
 
 #### [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320319304728)] \[[Code]()]
@@ -86,7 +86,7 @@
 
 *Xue-Feng Zhu, Xiao-Jun Wu, Tianyang Xu, Zhen-Hua Feng, Josef Kittler,*  **IEEE TCSVT**, 2020.
 
-![](C:\Users\52675\Desktop\Vot\CDCF.png)
+![](figs/CDCF.png)
 
 #### [[Paper](https://ieeexplore.ieee.org/document/9028150)] \[[Code]()]
 
@@ -96,7 +96,7 @@
 
 *Tianyang Xu, Zhen-Hua Feng, Xiao-Jun Wu, Josef Kittler,* **IEEE TCSVT**, 2020.
 
-![](C:\Users\52675\Desktop\Vot\LSDCF.png)
+![](figs/LSDCF.png)
 
 
 #### [[Paper](https://ieeexplore.ieee.org/document/8854808)] \[[Code](https://github.com/XU-TIANYANG/LSDCF)]
@@ -107,7 +107,7 @@
 
 *Tianyang Xu, Zhen-Hua Feng, Xiao-Jun Wu, Josef Kittler,* **IEEE TIP**, 2019.
 
-![](C:\Users\52675\Desktop\Vot\LADCF.png)
+![](figs/LADCF.png)
 
 #### [[Paper](https://ieeexplore.ieee.org/document/8728173/)] \[[Code](https://github.com/XU-TIANYANG/LADCF)]
 
@@ -117,7 +117,7 @@
 
 *Tianyang Xu, Zhen-Hua Feng, Xiao-Jun Wu, Josef Kittler,* **ICCV**, 2019.
 
-![](C:\Users\52675\Desktop\Vot\GFS-DCF.png)
+![](figs/GFS-DCF.png)
 
 #### [[Paper](extension://bfdogplmndidlpjfhoijckpakkdjkkil/pdf/viewer.html?file=https%3A%2F%2Fopenaccess.thecvf.com%2Fcontent_ICCV_2019%2Fpapers%2FXu_Joint_Group_Feature_Selection_and_Discriminative_Filter_Learning_for_Robust_ICCV_2019_paper.pdf)] \[[Code](https://github.com/XU-TIANYANG/GFS-DCF)]
 
@@ -127,6 +127,6 @@
 
 *Tianyang Xu, Xiao-Jun Wu, Josef Kittler,* **ICPR**, 2018.
 
-![](C:\Users\52675\Desktop\Vot\NNSR.png)
+![](figs/NNSR.png)
 
 #### [[Paper](https://ieeexplore.ieee.org/document/8546146)] \[[Code]()]
