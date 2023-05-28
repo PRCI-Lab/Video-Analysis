@@ -119,7 +119,7 @@
 
 ![](figs/GFS-DCF.png)
 
-#### [[Paper](extension://bfdogplmndidlpjfhoijckpakkdjkkil/pdf/viewer.html?file=https%3A%2F%2Fopenaccess.thecvf.com%2Fcontent_ICCV_2019%2Fpapers%2FXu_Joint_Group_Feature_Selection_and_Discriminative_Filter_Learning_for_Robust_ICCV_2019_paper.pdf)] \[[Code](https://github.com/XU-TIANYANG/GFS-DCF)]
+#### [[Paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Xu_Joint_Group_Feature_Selection_and_Discriminative_Filter_Learning_for_Robust_ICCV_2019_paper.pdf)] \[[Code](https://github.com/XU-TIANYANG/GFS-DCF)]
 
 ----
 
