@@ -10,8 +10,7 @@
 * 50 videos for test, containing 117,900 frames
 * 717,900 annotations
 * 15 challenging attributes
-
-![](figs/RGBD1K.png)
+<img src="figs/RGBD1K.png" width="600">
 
 #### [[Paper](https://arxiv.org/abs/2208.09787)] \[[Code](https://github.com/xuefeng-zhu5/RGBD1K)]
 
@@ -21,10 +20,7 @@
 
 
 *Tianyang Xu, Zhenhua Feng, Xiao-Jun Wu, Josef Kittler,* **IEEE TIP**, 2023. 
-
-
-![](figs/SiamTactic.png)
-
+<img src="figs/SiamTactic.png" width="600">
 #### \[[Paper](https://ieeexplore.ieee.org/document/10053655)]\[[Code]()]
 ---------
 
