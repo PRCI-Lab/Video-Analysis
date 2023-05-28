@@ -38,7 +38,7 @@
 #### [[Paper](https://ieeexplore.ieee.org/document/9781254)]\[[Code]()]
 ----
 
-###  Adaptive channel selection for robust visual object tracking with discriminative correlation filters
+###  Adaptive Channel Selection for Robust Visual Object Tracking with Discriminative Correlation Filters
 
 *Tianyang Xu, Zhenhua Feng, Xiao-Jun Wu, Josef Kittler,* **IJCV**, 2021.
 
@@ -58,7 +58,7 @@
 #### [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320320304829)]\[[Code]()]
 ----
 
-### Robust visual object tracking via adaptive attribute-aware discriminative correlation filters
+### Robust Visual Object Tracking Via Adaptive Attribute-Aware Discriminative Correlation Filters
 
 *Xue-Feng Zhu, Xiao-Jun Wu, Tianyang Xu, Zhen-Hua Feng, Josef Kittler,* **IEEE TMM**, 2021.
 
@@ -82,7 +82,7 @@
 
 ----
 
-###  Complementary discriminative correlation filters based on collaborative representation for visual object tracking
+###  Complementary Discriminative Correlation Filters Based on Collaborative Representation for Visual Object Tracking
 
 *Xue-Feng Zhu, Xiao-Jun Wu, Tianyang Xu, Zhen-Hua Feng, Josef Kittler,*  **IEEE TCSVT**, 2020.
 
@@ -92,7 +92,7 @@
 
 ---
 
-### Learning low-rank and sparse discriminative correlation filters for coarse-to-fine visual object tracking
+### Learning Low-Rank and Sparse Discriminative Correlation Filters for Coarse-to-Fine Visual Object Tracking
 
 *Tianyang Xu, Zhen-Hua Feng, Xiao-Jun Wu, Josef Kittler,* **IEEE TCSVT**, 2020.
 
@@ -103,7 +103,7 @@
 
 ---
 
-### Learning Adaptive Discriminative Correlation Filters via Temporal Consistency preserving Spatial Feature Selection for Robust Visual Object Tracking
+### Learning Adaptive Discriminative Correlation Filters via Temporal Consistency Preserving Spatial Feature Selection for Robust Visual Object Tracking
 
 *Tianyang Xu, Zhen-Hua Feng, Xiao-Jun Wu, Josef Kittler,* **IEEE TIP**, 2019.
 
@@ -123,7 +123,7 @@
 
 ----
 
-### Non-negative subspace representation learning scheme for correlation filter based tracking
+### Non-negative Subspace Representation Learning Scheme for Correlation Filter Based Tracking
 
 *Tianyang Xu, Xiao-Jun Wu, Josef Kittler,* **ICPR**, 2018.
 
