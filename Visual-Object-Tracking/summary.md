@@ -1,4 +1,4 @@
-# Visual Object Tracking
+# Visual Object Tracking Research of PRCI-Lab
 ### RGBD1K: A Large-scale Dataset and Benchmark for RGB-D Object Tracking   
 
 *Xue-Feng Zhu, Tianyang Xu, Zhangyong Tang, Zucheng Wu, Haodong Liu, Xiao Yang, Xiao-Jun Wu, Josef Kittler,* **AAAI**, 2023. (**oral**) 
@@ -11,7 +11,7 @@
 * 717,900 annotations
 * 15 challenging attributes
 
-![](C:\Users\52675\Desktop\Vot\RGBD1K.png)
+![](/figs/RGBD1K.png)
 
 #### [[Paper](https://arxiv.org/abs/2208.09787)] \[[Code](https://github.com/xuefeng-zhu5/RGBD1K)]
 
@@ -23,7 +23,7 @@
 *Tianyang Xu, Zhenhua Feng, Xiao-Jun Wu, Josef Kittler,* **IEEE TIP**, 2023. 
 
 
-![](C:\Users\52675\Desktop\Vot\SiamTactic.png)
+![](https://github.com/PRCI-Lab/Video-Analysis/edit/main/Visual-Object-Tracking/figs/SiamTactic.png)
 
 #### \[[Paper](https://ieeexplore.ieee.org/document/10053655)]\[[Code]()]
 ---------
@@ -33,7 +33,7 @@
 *Shaochuan Zhao, Tianyang Xu, Xiao-Jun Wu, Josef Kittler,* **IEEE TCSVT**, 2022.
 
 
-![](C:\Users\52675\Desktop\Vot\Distillation.png)
+![](https://github.com/PRCI-Lab/Video-Analysis/edit/main/Visual-Object-Tracking/figs/Distillation.png)
 
 #### [[Paper](https://ieeexplore.ieee.org/document/9781254)]\[[Code]()]
 ----
@@ -43,7 +43,7 @@
 *Tianyang Xu, Zhenhua Feng, Xiao-Jun Wu, Josef Kittler,* **IJCV**, 2021.
 
 
-![](C:\Users\52675\Desktop\Vot\ACSDCF.png)
+![](https://github.com/PRCI-Lab/Video-Analysis/edit/main/Visual-Object-Tracking/figs/ACSDCF.png)
 
 #### [[Paper](https://link.springer.com/content/pdf/10.1007/s11263-021-01435-1.pdf)] \[[Code](https://github.com/XU-TIANYANG/ACSDCF)]
 ----
@@ -53,7 +53,7 @@
 *Shaochuan Zhao, Tianyang Xu, Xiao-Jun Wu, Xue-Feng Zhu,* **Pattern Recognition**, 2021. 
 
 
-![](C:\Users\52675\Desktop\Vot\AFFVOT.png)
+![](https://github.com/PRCI-Lab/Video-Analysis/edit/main/Visual-Object-Tracking/figs/AFFVOT.png)
 
 #### [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320320304829)]\[[Code]()]
 ----
@@ -63,7 +63,7 @@
 *Xue-Feng Zhu, Xiao-Jun Wu, Tianyang Xu, Zhen-Hua Feng, Josef Kittler,* **IEEE TMM**, 2021.
 
 
-![](C:\Users\52675\Desktop\Vot\A3DCF.png)
+![](https://github.com/PRCI-Lab/Video-Analysis/edit/main/Visual-Object-Tracking/figs/A3DCF.png)
 
 
 #### [[Paper](https://ieeexplore.ieee.org/document/9318537)] \[[Code](https://github.com/xuefeng-zhu5/A3DCF)]
@@ -75,7 +75,7 @@
 *Tianyang Xu, Zhen-Hua Feng, Xiao-Jun Wu, Josef Kittler,* **Pattern Recognition**, 2020.
 
 
-![](C:\Users\52675\Desktop\Vot\R_A-ADMM.png)
+![](/figs/R_A-ADMM.png)
 
 
 #### [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320319304728)] \[[Code]()]
