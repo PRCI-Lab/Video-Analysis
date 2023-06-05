@@ -1,7 +1,8 @@
 # Visual Object Tracking Research of PRCI-Lab
 ### RGBD1K: A Large-scale Dataset and Benchmark for RGB-D Object Tracking   
-*Xue-Feng Zhu, Tianyang Xu, Zhangyong Tang, Zucheng Wu, Haodong Liu, Xiao Yang, Xiao-Jun Wu, Josef Kittler,* **AAAI**, 2023. (**oral**) 
- **Dataset Details of RGBD1K**
+*Xue-Feng Zhu, Tianyang Xu, Zhangyong Tang, Zucheng Wu, Haodong Liu, Xiao Yang, Xiao-Jun Wu, Josef Kittler,* **AAAI**, 2023. (**oral**) <br>
+
+**Dataset Details of RGBD1K**
 * 1050 video sequences
 * 1000 videos for training, containing 2,385,500 frames
 * 50 videos for test, containing 117,900 frames
