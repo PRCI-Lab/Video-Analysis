@@ -1,6 +1,6 @@
 # Video Action Recognition Research of PRCI-Lab
 
-### Action Probability Calibration for Efficient Naturalistic Driving Action Localizationn 
+### Action Probability Calibration for Efficient Naturalistic Driving Action Localization 
 *Rongchang Li, Cong Wu, Linze Li, Zhongwei Shen, Tianyang Xu, Xiao-jun Wu, Xi Li, Jiwen Lu, Josef Kittler*, **CVPRW**, 2023. </br>
 <img src="figs/DrivingTAL.png" width="600">
 #### [[Paper](https://openaccess.thecvf.com/content/CVPR2023W/AICity/papers/Li_Action_Probability_Calibration_for_Efficient_Naturalistic_Driving_Action_Localization_CVPRW_2023_paper.pdf)]   [[Code](https://github.com/RongchangLi/AICity2023_DrivingAction)]
