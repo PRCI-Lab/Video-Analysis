@@ -2,7 +2,6 @@
 ### Exploring fusion strategies for accurate RGBT visual object tracking  
 *Zhangyong Tang, Tianyang Xu, Hui Li, Xiao-Jun Wu, XueFeng Zhu, Josef Kittler,* **Information Fusion**, 2023. <br>
 <img src="figs/RGBD1K.png" width="600">
-
 #### [[Paper](https://arxiv.org/abs/2201.08673)] \[[Code](https://github.com/Zhangyong-Tang/DFAT-Information-Fusion)]
 ------
 
