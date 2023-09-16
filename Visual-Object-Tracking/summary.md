@@ -1,7 +1,6 @@
 # Visual Object Tracking Research of PRCI-Lab
 ### A Spatio-Temporal Robust Tracker with Spatial-Channel Transformer and Jitter Suppression  
 *Shaochuan Zhao, Tianyang Xu, Xiao-Jun Wu, Josef Kittler,* **IJCV**, 2023. <br>
-#<img src="figs/DFAT.png" width="600">
 #### [[Paper]()] \[[Code]()]
 ------
 
