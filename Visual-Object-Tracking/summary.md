@@ -1,7 +1,7 @@
 # Visual Object Tracking Research of PRCI-Lab
 ### Pluggable Attack for Visual Object Tracking
 *Shaochuan Zhao, Tianyang Xu, Xiao-Jun Wu, Josef Kittler,* **TIFS**, 2023. <br>
-<img src="figs/STRtrack.png" width="600">
+<img src="figs/PlugATT" width="600">
 #### [[Paper](https://ieeexplore.ieee.org/document/10316262)] \[[Code]()]
 
 ### A Spatio-Temporal Robust Tracker with Spatial-Channel Transformer and Jitter Suppression  
