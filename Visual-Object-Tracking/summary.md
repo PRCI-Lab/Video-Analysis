@@ -2,7 +2,7 @@
 ### Generative-based Fusion Mechanism for Multi-Modal Tracking
 *Zhangyong Tang, Tianyang Xu, XueFeng Zhu, Xiao-Jun Wu, Josef Kittler,* **AAAI**, 2024. <br>
 <img src="figs/GMMT.png" width="600">
-#### [[Paper]([https://ieeexplore.ieee.org/document/10316262](https://arxiv.org/abs/2309.01728))] \[[Code](https://github.com/Zhangyong-Tang/GMMT)]
+#### [[Paper](https://arxiv.org/abs/2309.01728)] \[[Code](https://github.com/Zhangyong-Tang/GMMT)]
 
 ### Pluggable Attack for Visual Object Tracking
 *Shaochuan Zhao, Tianyang Xu, Xiao-Jun Wu, Josef Kittler,* **TIFS**, 2023. <br>
