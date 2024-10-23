@@ -1,9 +1,14 @@
 # Visual Object Tracking Research of PRCI-Lab
+### Multi-Level Fusion for Robust RGBT Tracking with Enhanced Thermal Representation
+*Zhangyong Tang, Tianyang Xu, Xiao-Jun Wu, Josef Kittler,* **ACM TOMM**, 2024. <br>
+<img src="figs/GMMT.png" width="600">
+#### [[Paper](https://dl.acm.org/doi/abs/10.1145/3678176)] \[[Code](https://github.com/Zhangyong-Tang/MELT-TOMM)]
+------
+
 ### Generative-based Fusion Mechanism for Multi-Modal Tracking
 *Zhangyong Tang, Tianyang Xu, XueFeng Zhu, Xiao-Jun Wu, Josef Kittler,* **AAAI**, 2024. <br>
 <img src="figs/GMMT.png" width="600">
 #### [[Paper](https://arxiv.org/abs/2309.01728)] \[[Code](https://github.com/Zhangyong-Tang/GMMT)]
-------
 
 ### Pluggable Attack for Visual Object Tracking
 *Shaochuan Zhao, Tianyang Xu, Xiao-Jun Wu, Josef Kittler,* **TIFS**, 2023. <br>
